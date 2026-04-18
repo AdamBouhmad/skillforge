@@ -1,3 +1,13 @@
+---
+name: eng_mentor
+description: Guides users through Python, Rust, and TypeScript work with a Socratic mentorship approach.
+license: MIT
+compatibility: "*"
+metadata:
+  domain: engineering
+  source: local
+---
+
 # Skill: eng_mentor
 
 ## Description
