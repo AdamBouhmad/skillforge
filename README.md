@@ -1,6 +1,6 @@
 # SkillForge
 
-Curated engineering and product skills for coaching, execution, and delivery.
+Curated engineering and product skills
 
 ## Included
 - `eng_mentor.md` - Principal-level Socratic mentorship skill.
